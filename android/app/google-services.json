@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088824741814",
+    "project_id": "bionicx-eb403",
+    "storage_bucket": "bionicx-eb403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088824741814:android:1a2443b8a2ec41ad9dbb17",
+        "android_client_info": {
+          "package_name": "com.example.bionic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApd1MzkJc3jbg5txaG_yZC3xcnRVnAdWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
